@@ -14,3 +14,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: https://gist.github.com/YunHaaaa/ac4665696683ffbec19784f8e907323f
           TIMEZONE: Asia/Seoul
+          
